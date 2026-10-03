@@ -1,0 +1,28 @@
+NovaX™ V49 — Production Results Page Alignment + Hub Continuity
+
+Results Page
+- Kept the dedicated `results.html` architecture. Quiz completion continues to save the Builder state and redirect to the dynamic Results Page instead of rendering the Results experience inside quiz.html.
+- Rebuilt the Results Page hero against the approved Builder Results mockup geometry: exact approved hero art, two-column desktop composition, Builder Score™ circle, score copy, vertical divider, and stacked Builder traits.
+- Hero title now uses the approved pattern: “You’re a [Builder Type] Builder™”.
+- Added the approved Visionary hero description while preserving dynamic profile-specific copy for the other Builder types.
+- Rebuilt the on-page Builder Card around the approved mockup design and replaced the old baked-text card treatment with a clean dynamic background plus live Builder Type, name, Builder Score™, strengths, and profile quote.
+- Builder Card actions remain functional: Share Builder Card, Save Card, and QR.
+- Builder Card export now uses the same new dynamic card composition.
+- Preserved 5 / 15 / 25 cumulative Path unlock mechanics and their locked/unlocked states.
+- Corrected the Results Page language to “Your Builder Journey™”.
+
+Hub
+- Added “Build Your Tomorrow™” to the right of the approved NovaX™ logo in the Hub header.
+- Added direct “VIEW BUILDER RESULTS” access from the Hub.
+- Added “SHARE BUILDER CARD” access from the Hub using the Builder’s persistent invite state.
+- Made Founder Rewards functional with a milestone modal showing 5, 15, 25, 50, 100, 250, 500, and 1,000 Confirmed Invite thresholds.
+- Updated Hub reward progression to include the 15 and 25 Path thresholds.
+- Added a Builder Results link to the Hub footer.
+
+Brand / Assets
+- Audited centered logo + “Building the Parallel Economy™” lockups and applied a small optical centering correction to the centered legal/Quiz lockups without changing layout structure.
+- About and FAQ continue using the top-left logo lockup with “Building the Parallel Economy™” to its right.
+- Retired the old `results-card-art.png` Builder Card asset.
+- Retired legacy Signature logo assets from the package.
+- Preserved the approved X-color ring asset and locked landing assets.
+- Builder Lounge™ is the canonical term for future references.
